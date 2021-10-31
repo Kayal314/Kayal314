@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kayal314
+- 👋 Hi, I’m @Kayal314, a high-school senior who hates formal ed
 - 👀 I’m interested in the study of algorithms and data structures, machine learning, and discrete mathematics
 - 🌱 I’m currently learning Mathematical Finance and Stochastic Processes
 - 💞️ I’m looking to collaborate on fun pygames, python applications, algorithms designing, and competitive programming
