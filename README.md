@@ -3,7 +3,11 @@
 - 🌱 I’m currently learning Computer Systems and Compilers
 - 💞️ I’m looking to collaborate on ML projects, algorithms designing, and competitive programming
 - 🎵 I have a wierd taste in music. Hard rock, psychedelic rock, soft rock, jazz (don't be mean), progressive metal, and of course good old heavy matal.
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayal314&theme=darcula)](https://github.com/Kayal314/github-readme-stats)
+- Languages:
+-   Java
+-   Python
+-   C/C++
+-   Octave/ Matlab
 - Download my custom programming language: <a href='https://play.google.com/store/apps/details?id=com.console.kayal'>Cillian</a>
 <!---
 Kayal314/Kayal314 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
