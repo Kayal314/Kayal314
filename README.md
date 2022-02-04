@@ -2,7 +2,6 @@
 - 👀 I’m interested in the study of algorithms and data structures, machine learning, and discrete mathematics
 - 🌱 I’m currently learning Computer Systems and Compilers
 - 💞️ I’m looking to collaborate on ML projects, algorithms designing, and competitive programming
-- 🎵 I have a wierd taste in music. Hard rock, psychedelic rock, soft rock, jazz (don't be mean), progressive metal, and of course good old heavy matal.
 - Languages:
 -     - Java
 -     - Python
