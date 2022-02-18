@@ -6,8 +6,8 @@
 -     - Java
 -     - Python
 -     - C/C++
--     - Octave/ Matlab
--     - XML
+-     - Octave
+-     - Javascript
 - Download my custom programming language: <a href='https://play.google.com/store/apps/details?id=com.console.kayal'>Cillian</a>
 <!---
 Kayal314/Kayal314 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
