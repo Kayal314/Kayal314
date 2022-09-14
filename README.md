@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kayal314, high-school senior
+- 👋 Hi, I’m @Kayal314, a college freshman
 - 👀 I’m interested in the study of algorithms and data structures, machine learning, and discrete mathematics
 - 🌱 I’m currently learning Computer Systems and Compilers
 - 💞️ I’m looking to collaborate on ML projects, algorithms designing, and competitive programming
